@@ -1,0 +1,135 @@
+[
+  {
+    "Id": 10774,
+    "Name": "Minor Innovation by Design  Minor",
+    "Code": "DE 414",
+    "Instructor": null,
+    "FullName": "DE 414-2019-1 Minor Innovation by Design  Minor"
+  },
+  {
+    "Id": 10504,
+    "Name": "Innovation by Design ",
+    "Code": "DE 414",
+    "Instructor": null,
+    "FullName": "DE 414-2019-1 Innovation by Design "
+  },
+  {
+    "Id": 10372,
+    "Name": "Engineering Polymers &amp; Composites",
+    "Code": "MM 453",
+    "Instructor": null,
+    "FullName": "MM 453-2019-1 Engineering Polymers &amp; Composites"
+  },
+  {
+    "Id": 10368,
+    "Name": "Iron and Steelmaking",
+    "Code": "MM 439",
+    "Instructor": null,
+    "FullName": "MM 439-2019-1 Iron and Steelmaking"
+  },
+  {
+    "Id": 10366,
+    "Name": "Manufacturing Process Seminar",
+    "Code": "MM 433",
+    "Instructor": null,
+    "FullName": "MM 433-2019-1 Manufacturing Process Seminar"
+  },
+  {
+    "Id": 10241,
+    "Name": "Life Span Development : Infancy to Old Age",
+    "Code": "HS 498",
+    "Instructor": null,
+    "FullName": "HS 498-2019-1 Life Span Development : Infancy to Old Age"
+  },
+  {
+    "Id": 9622,
+    "Name": " Casting and Joining Lab",
+    "Code": "MM 322",
+    "Instructor": null,
+    "FullName": "MM 322-2018-2-S2  Casting and Joining Lab"
+  },
+  {
+    "Id": 9322,
+    "Name": "Casting and Joining Lab",
+    "Code": "MM 322",
+    "Instructor": null,
+    "FullName": "MM 322-2018-2 Casting and Joining Lab"
+  },
+  {
+    "Id": 9324,
+    "Name": "Ceramics and Powder Metallurgy",
+    "Code": "MM 357",
+    "Instructor": null,
+    "FullName": "MM 357-2018-2 Ceramics and Powder Metallurgy"
+  },
+  {
+    "Id": 9619,
+    "Name": " Electronic Properties of Materials",
+    "Code": "MM 318",
+    "Instructor": null,
+    "FullName": "MM 318-2018-2-S1  Electronic Properties of Materials"
+  },
+  {
+    "Id": 9320,
+    "Name": "Electronic Properties of Materials",
+    "Code": "MM 318",
+    "Instructor": null,
+    "FullName": "MM 318-2018-2 Electronic Properties of Materials"
+  },
+  {
+    "Id": 9624,
+    "Name": " Manufacturing Processes Laboratory",
+    "Code": "MM 323",
+    "Instructor": null,
+    "FullName": "MM 323-2018-2-S2  Manufacturing Processes Laboratory"
+  },
+  {
+    "Id": 9323,
+    "Name": "Manufacturing Processes Laboratory",
+    "Code": "MM 323",
+    "Instructor": null,
+    "FullName": "MM 323-2018-2 Manufacturing Processes Laboratory"
+  },
+  {
+    "Id": 9325,
+    "Name": "Metal Casting and Joining",
+    "Code": "MM 359",
+    "Instructor": null,
+    "FullName": "MM 359-2018-2 Metal Casting and Joining"
+  },
+  {
+    "Id": 9326,
+    "Name": "Seminar",
+    "Code": "MM 396",
+    "Instructor": null,
+    "FullName": "MM 396-2018-2 Seminar"
+  },
+  {
+    "Id": 8376,
+    "Name": " Heat Treatment Laboratory",
+    "Code": "MM 312",
+    "Instructor": null,
+    "FullName": "MM 312-2018-1-S1  Heat Treatment Laboratory"
+  },
+  {
+    "Id": 8047,
+    "Name": "Heat Treatment Laboratory",
+    "Code": "MM 312",
+    "Instructor": null,
+    "FullName": "MM 312-2018-1 Heat Treatment Laboratory"
+  },
+  {
+    "Id": 8046,
+    "Name": "Kinetics of Processes",
+    "Code": "MM 305",
+    "Instructor": null,
+    "FullName": "MM 305-2018-1 Kinetics of Processes"
+  },
+  {
+    "Id": 8378,
+    "Name": " Mech. Testing Lab.",
+    "Code": "MM 362",
+    "Instructor": null,
+    "FullName": "MM 362-2018-1-S1  Mech. Testing Lab."
+  }
+]

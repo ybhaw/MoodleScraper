@@ -1,4 +1,8 @@
-﻿using System;
+﻿using MoodleScraper.models;
+using System;
+using System.IO;
+using System.Net;
+using System.Text;
 
 namespace MoodleScraper
 {
@@ -6,7 +10,8 @@ namespace MoodleScraper
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Updater updater = new Updater();
+            updater.GetCourses();
         }
     }
 }
